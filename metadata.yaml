@@ -1,0 +1,28 @@
+_repo: Bulalakaw-ng-Pag-asa_35868
+_version: 0.1.0
+alternative_title:
+- Bulalakaw ng Pág-Asa
+- Bulalakaw ñg Pag-Asa
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Amado, Ismael A.
+    alias: Amado, Ismael Alberto
+    gutenberg_agent_id: '37947'
+    url: http://www.gutenberg.org/2009/agents/37947
+description: ''
+gutenberg_issued: '2011-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35868'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction, Tagalog'
+- !lcc 'PL'
+title: Bulalakaw ng Pag-asa
+url: http://www.gutenberg.org/ebooks/35868
